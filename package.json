@@ -1,0 +1,9 @@
+{
+  "name": "vitest-issue",
+	"devDependencies": {
+		"vitest": "0.25.3"
+	},
+	"scripts": {
+		"test": "vitest"
+	}
+}
