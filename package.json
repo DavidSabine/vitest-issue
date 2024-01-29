@@ -1,5 +1,5 @@
 {
-  "name": "vitest-issue",
+  "name": "vitest-sandbox",
 	"devDependencies": {
 		"vitest": "1.2.2"
 	},
